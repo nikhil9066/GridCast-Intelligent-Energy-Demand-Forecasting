@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nikhilprao/Documents/GridCast-Intelligent-Energy-Demand-Forecasting/notebooks/models/mlflow_artifacts/236928468635040117/615a183895044d2497402a3252bd703c/artifacts
+end_time: 1758139230475
+entry_point_name: ''
+experiment_id: '236928468635040117'
+lifecycle_stage: active
+run_id: 615a183895044d2497402a3252bd703c
+run_name: Naive_Forecast_24h
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758139230460
+status: 3
+tags: []
+user_id: nikhilprao
